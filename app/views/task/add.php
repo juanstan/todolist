@@ -1,0 +1,1 @@
+<a class="big" href="/task/all">Task successfully added. Click here to go back.</a>
